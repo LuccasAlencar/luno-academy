@@ -1,5 +1,5 @@
 
-![Logo](assets/README.md)
+![Logo](/assets/banner.png)
 
 
 # Luno Academy
