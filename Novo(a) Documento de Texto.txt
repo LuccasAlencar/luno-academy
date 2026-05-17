@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-ola mundo
-=======
-a
->>>>>>> Stashed changes
